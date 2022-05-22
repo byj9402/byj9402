@@ -15,5 +15,5 @@
 
 <!-- Solved.ac Streak -->
 <a href = "http://solved.ac/byj9402">
-  <img align = "right" src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark" />
+  <img align = "right" src="http://mazandi.herokuapp.com/api?handle=byj9402&theme=dark" />
 </a>
