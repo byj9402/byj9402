@@ -10,5 +10,5 @@
 
 <!-- Solved.ac Profile-->
 <a href = "https://solved.ac/byj9402">
-  <img align = "right" src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=byj9402" />
+  <img align = "right" src = "http://mazassumnida.wtf/api/mini/generate_badge?boj=byj9402" />
 </a>
