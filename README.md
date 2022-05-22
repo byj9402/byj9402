@@ -12,3 +12,8 @@
 <a href = "https://solved.ac/byj9402">
   <img align = "right" src = "http://mazassumnida.wtf/api/mini/generate_badge?boj=byj9402" />
 </a>
+
+<!-- Solved.ac Streak -->
+<a href = "http://solved.ac/byj9402">
+  <img align = "right" src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark" />
+</a>
