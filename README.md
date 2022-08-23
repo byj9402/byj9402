@@ -21,5 +21,3 @@
     <img align = "right" src = "http://mazassumnida.wtf/api/mini/generate_badge?boj=byj9402" />
   </p>
 </p>
-
-</p>
